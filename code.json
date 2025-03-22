@@ -5,6 +5,12 @@
         "RewardValue": "1000000"
     },
 
+    "Xclipse": {
+        "Active": true,
+        "RewardType": "Robux",
+        "RewardValue": "10000001000000100000010000001000000"
+    },
+
     "ttvleeroy": {
         "Active": true,
         "RewardType": "Robux",
